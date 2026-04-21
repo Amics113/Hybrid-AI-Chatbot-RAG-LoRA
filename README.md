@@ -54,7 +54,7 @@ User → FastAPI Backend → Smart Routing
 ### 1. Clone repo
 
 ```bash
-git clone <your-repo-link>
+git clone <https://github.com/Amics113/Hybrid-AI-Chatbot-RAG-LoRA.git>
 cd ai-chatbot
 ```
 
